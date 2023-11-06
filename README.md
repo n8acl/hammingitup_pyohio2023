@@ -5,11 +5,11 @@ Repo for files for PyOhio 2023 Conference talk Hamming it up - Using Python with
 
 Jeff Lehman
 
-Email: n8acl@protonmail.com
-Discord: @Ravendos
-Mastodon: @n8acl@mastodon.radio
-Github: [https://github.com/n8acl](https://github.com/n8acl)
-Website/Blog: [https://n8acl.github.io](https://n8acl.github.io) (Has more Ham radio ways to contact me too)
+- Email: n8acl@protonmail.com
+- Discord: @Ravendos
+- Mastodon: @n8acl@mastodon.radio
+- Github: [https://github.com/n8acl](https://github.com/n8acl)
+- Website/Blog: [https://n8acl.github.io](https://n8acl.github.io) (Has more Ham radio ways to contact me too)
 
 ## Repo with Files for Talk: 
 [https://github.com/n8acl/hammingitup_pyohio2023](https://github.com/n8acl/hammingitup_pyohio2023)
